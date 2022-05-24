@@ -1,3 +1,7 @@
 O dia vai ser o dia do meu primeiro commmit!
 
 Já fiz o meu primeiro commit, mas um é pouco, quero o segundo!
+
+Eu estou amando git!
+
+Manda para o github.
